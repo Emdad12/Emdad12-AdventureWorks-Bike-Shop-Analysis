@@ -51,7 +51,7 @@ You can view the live Power BI report here: [View the Dashboard](https://app.pow
 - A few product subcategories accounted for the majority of returns, indicating possible quality or fit issues.
 - High-performing territories highlighted growth opportunities in underperforming regions.
 ### Project Deliverables  
-
+- Power BI Dashboard: AdventureWorks_BikeShop.pbix file
 - Sample Dataset: A processed and anonymized version of the AdventureWorks data.
 - Documentation: Includes methodology, data model design, and analytical findings.
 ### Next Steps  
